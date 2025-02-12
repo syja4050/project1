@@ -48,7 +48,7 @@
             color:rgb(125, 0, 131);
         }
         .menu-icon {
-            display: block;
+            display: none;
             font-size: 28px;
             color: white;
             cursor: pointer;
